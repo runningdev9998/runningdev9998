@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I’m a **Principal AI & Software Engineer** with **7+ years of experience** designing, building, and scaling **production-grade software systems** across startups and enterprise environments.
+I’m a **Principal AI & Software Engineer** with **8+ years of experience** designing, building, and scaling **production-grade software systems** across startups and enterprise environments.
 
 My expertise spans **Full-Stack Engineering, Backend Systems, AI/ML, and DevOps**, with a strong focus on **performance, scalability, and clean architecture**. I specialize in turning complex requirements into reliable, elegant solutions that scale.
 
